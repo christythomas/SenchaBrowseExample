@@ -1,0 +1,99 @@
+{
+	"items": [{
+		"text": "Share 1",
+		"author": "Christy Thomas",
+		"createdate": "1393460428756",
+		"type": "directory",
+		"size": 123456,
+		"items": [{
+			"text": "Test",
+			"author": "Christy Thomas",
+			"createdate": "1393160428756",
+			"type": "directory",
+			"size": 123456,
+			"items": [{
+				"text": "SubDirectory",
+				"author": "Christy Thomas",
+				"createdate": "1393460429756",
+				"type": "directory",
+				"size": 123456,
+				"items": [{
+					"text": "File 1",
+					"author": "Christy Thomas",
+					"createdate": "1393460928756",
+					"type": "html",
+					"size": 123456,
+					"filename": "fileone.html",
+					"path": "Test/SubDirectory",
+					"leaf": true
+				}, {
+					"text": "File 2",
+					"author": "Christy Thomas",
+					"createdate": "1393460557239",
+					"type": "html",
+					"size": 123456,
+					"filename": "filetwo.html",
+					"path": "Test/SubDirectory",
+					"leaf": true
+				}]
+			},{
+				"text": "File 3",
+				"author": "Christy Thomas",
+				"createdate": "1393460928756",
+				"type": "html",
+				"size": 123456,
+				"filename": "filethree.html",
+				"path": "Test",
+				"leaf": true
+			}]
+		}]
+	}, {
+		"text": "Share 2",
+		"author": "Christy Thomas",
+		"createdate": "1393460428756",
+		"type": "directory",
+		"size": 123456,
+		"items": [{
+			"text": "Shop",
+			"author": "Christy Thomas",
+			"createdate": "1393160428756",
+			"type": "directory",
+			"size": 123456,
+			"items": [{
+				"text": "Shoes",
+				"author": "Christy Thomas",
+				"createdate": "1393460429756",
+				"type": "directory",
+				"size": 123456,
+				"items": [{
+					"text": "Product 4",
+					"author": "Christy Thomas",
+					"createdate": "1393460928756",
+					"type": "html",
+					"size": 123456,
+					"filename": "productfour.html",
+					"path": "Shop/Shoes",
+					"leaf": true
+				}, {
+					"text": "Product 3",
+					"author": "Christy Thomas",
+					"createdate": "1393460557239",
+					"type": "html",
+					"size": 123456,
+					"filename": "productthree.html",
+					"path": "Shop/Shoes",
+					"leaf": true
+				}]
+			},{
+					"text": "Product 1",
+					"author": "Christy Thomas",
+					"createdate": "1393460557239",
+					"type": "html",
+					"size": 123456,
+					"filename": "productone.html",
+					"path": "Shop",
+					"leaf": true
+			}] 
+		}]
+	}]
+}	
