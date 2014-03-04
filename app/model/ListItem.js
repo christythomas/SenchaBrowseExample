@@ -1,6 +1,6 @@
-/*
-Functionality should include: browse, view document properties 
-(author, create date, type, size), view/download documents.
+/**
+* Model to represent each item in the tree.
+* @author Christy Thomas
 */
  Ext.define('loomis.model.ListItem', {
      extend: 'Ext.data.Model',

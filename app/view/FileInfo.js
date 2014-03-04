@@ -1,5 +1,6 @@
 /**
- * Displays file information
+ * Displays file information.
+ * @author Christy Thomas
  */
 Ext.define('loomis.view.FileInfo',{
 	extend: 'Ext.Panel',

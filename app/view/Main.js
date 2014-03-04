@@ -1,17 +1,9 @@
-/*
-Document Browser
-
-A Sencha Touch application which lets users browse a (network share) location 
-consisting of nested folders and files (documents).
-Functionality should include: browse, view document properties 
-(author, create date, type, size), view/download documents.
-
-For the purpose of this application the data doesn't have to be real 
-(using static data store is fine)
-
-Bonus: building a custom Sencha theme for the app.
-Styling should include minimum color (black and white preferred), no gradients, no rounded corners in buttons
-
+/**
+* Document Browser
+* 
+* Nested List that allows you to browse files and view file information.
+* @author Christy Thomas
+*
 */
 
 Ext.define('loomis.view.Main', {

@@ -1,4 +1,7 @@
-
+/**
+* Store for the list of items in the tree and loaded from the data.json file.
+* @author Christy Thomas
+*/
 Ext.define( 'loomis.store.ListTree', {
 	extend: 'Ext.data.TreeStore',
 	requires: 'loomis.model.ListItem',

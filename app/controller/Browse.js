@@ -1,4 +1,7 @@
-
+/**
+* Controls the actions for the toolbar button and clicking on a leaf item.
+* @author Christy Thomas
+*/
 Ext.define('loomis.controller.Browse', {
 	extend: 'Ext.app.Controller',
 	requires: [
